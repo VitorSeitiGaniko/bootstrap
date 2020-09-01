@@ -1,0 +1,1 @@
+Projeto de galeria utilizando JavaScript, bootstrap, jQuery e Webpack
